@@ -1,5 +1,11 @@
 # bimawisataapp
 
+Demo <br>
+Tampilan Home <br>
+<img src="https://github.com/Rizky1408/Bima-Travell/blob/main/homeEdit.png" width="500">
+Tampilan Detail <br>
+<img src="https://github.com/Rizky1408/Bima-Travell/blob/main/halaman_detailEdit.png" width="500">
+
 A new Flutter project.
 
 ## Getting Started
@@ -14,3 +20,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+

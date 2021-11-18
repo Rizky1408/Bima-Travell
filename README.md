@@ -1,10 +1,10 @@
 # bimawisataapp
 
-Demo <br>
-Tampilan Home <br>
-<img src="https://github.com/Rizky1408/Bima-Travell/blob/main/homeEdit.png" width="500">
-Tampilan Detail <br>
-<img src="https://github.com/Rizky1408/Bima-Travell/blob/main/halaman_detailEdit.png" width="500">
+# Demo <br><br>
+ &emsp;  &emsp;  &emsp; &emsp;<b>Tampilan Home<b>  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;<b>Tampilan Detail<b><br><br>
+<img src="https://github.com/Rizky1408/Bima-Travell/blob/main/homeEdit.png" width="300"> &emsp; &emsp; &emsp; &emsp;<img src="https://github.com/Rizky1408/Bima-Travell/blob/main/halaman_detailEdit.png" width="300">
+ 
+
 
 A new Flutter project.
 
